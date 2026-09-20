@@ -1,5 +1,35 @@
 # 💫 About Me:
-👨‍💻 Data Analyst → Data Scientist | 🐍 Python ( Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn ) | 🗄️ SQL | 📈 Power BI | 🤖 ML | 📊 Data Visualization | 🚀 Building data-driven projects
+## 👋 Hi, I'm Muzammil Anees
+
+🎓 **BS Data Science Student** | 📊 **Data Analyst** | 🤖 **Machine Learning Enthusiast**
+
+I'm a Data Science student passionate about turning **raw data into meaningful insights and intelligent solutions**. I enjoy working on real-world projects involving **Data Analysis, Machine Learning, Exploratory Data Analysis, and Data Visualization**.
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python, SQL
+* **Data Science:** Pandas, NumPy, Scikit-learn
+* **Machine Learning:** Regression, Classification, Clustering, NLP
+* **Data Visualization:** Matplotlib, Seaborn, Power BI
+* **Databases:** SQL, SQLite
+* **Tools:** Jupyter Notebook, VS Code, Git & GitHub
+
+### 🚀 What I Do
+
+* 📈 Analyze and visualize real-world datasets
+* 🤖 Build and evaluate Machine Learning models
+* 🧹 Perform data cleaning, preprocessing & feature engineering
+* 📊 Create interactive dashboards and data-driven reports
+* 💡 Build practical Data Science projects to solve real-world problems
+
+### 🎯 Currently
+
+I'm continuously improving my skills in **Data Science, Machine Learning, Data Analytics, and AI**, while building practical projects and exploring research-oriented problems.
+
+📌 **Open to:** Data Science Internships | Data Analyst Roles | Machine Learning Opportunities | Research Projects
+
+> **Turning Data into Insights. Turning Insights into Intelligence.**
+
 
 
 ## 🌐 Socials:

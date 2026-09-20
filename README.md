@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Muzammil Anees
+## 👋 Hi, I'm Muzammil A Muhammad
 
 🎓 **BS Data Science Student** | 📊 **Data Analyst** | 🤖 **Machine Learning Enthusiast**
 
